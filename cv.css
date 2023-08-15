@@ -22,7 +22,7 @@ input{
     border-radius: 20px;
     border: none;
     margin-left: -15px;
-    width: 250px;
+    width: 260px;
 }
 input:first-child{
     background-color: #a98fa8;
@@ -56,7 +56,7 @@ input:nth-child(7){
 }
 .bi-globe2{
     position: relative;
-    left: 215px;
+    left: 210px;
     bottom: 16px;
     color: #fff;
 }
