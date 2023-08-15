@@ -22,7 +22,7 @@ input{
     border-radius: 20px;
     border: none;
     margin-left: -15px;
-    width: 260px;
+    width: 270px;
 }
 input:first-child{
     background-color: #a98fa8;
@@ -38,25 +38,25 @@ input:nth-child(7){
 }
 .bi-geo-alt-fill{
     position: relative;
-    left: 215px;
+    left: 225px;
     bottom: 16px;
     color: #fff;
 }
 .bi-telephone{
     position: relative;
-    left: 215px;
+    left: 225px;
     bottom: 16px;
     color: #fff;
 }
 .bi-envelope{
     position: relative;
-    left: 215px;
+    left: 225px;
     bottom: 16px;
     color: #fff;
 }
 .bi-globe2{
     position: relative;
-    left: 215px;
+    left: 225px;
     bottom: 16px;
     color: #fff;
 }
